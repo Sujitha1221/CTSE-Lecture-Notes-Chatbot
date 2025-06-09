@@ -1,5 +1,5 @@
 
-# 📘 README: CTSE Lecture Notes Chatbot
+# 📘 README: CTSE Lecture Notes Chatbot 
 
 ## 📌 Project Title
 **CTSE Lecture-Based Question Answering Chatbot using RAG and LLM**
